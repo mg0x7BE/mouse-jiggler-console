@@ -1,25 +1,27 @@
+![Workflow Status](https://github.com/MaxGripe/mouse-jiggler-console/actions/workflows/dotnet.yml/badge.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/MaxGripe/mouse-jiggler-console)
+![GitHub License](https://img.shields.io/github/license/MaxGripe/mouse-jiggler-console)
+![GitHub Created At](https://img.shields.io/github/created-at/MaxGripe/mouse-jiggler-console)
+![GitHub forks](https://img.shields.io/github/forks/MaxGripe/mouse-jiggler-console)
+![GitHub Repo stars](https://img.shields.io/github/stars/MaxGripe/mouse-jiggler-console)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/MaxGripe/repository-template)
-![GitHub License](https://img.shields.io/github/license/MaxGripe/repository-template)
-![GitHub Created At](https://img.shields.io/github/created-at/MaxGripe/repository-template)
-![GitHub forks](https://img.shields.io/github/forks/MaxGripe/repository-template)
-![GitHub Repo stars](https://img.shields.io/github/stars/MaxGripe/repository-template)
 
+# Mouse Jiggler Console
 
-# Template Repository
-
-This repository serves as a template for starting new projects.
-
-## Features
-
-- Easy setup
-- Customizable configurations
-- Some popular badges already in place
+Mouse Jiggler for Windows Terminal, rewritten in F#. "Mouse Jiggler" is a utility that simulates mouse movement to prevent a computer from going idle or activating the screensaver.
 
 ## Getting started
 
-To use this template, select it from the **Repository template** dropdown when creating a new repository.
+No configuration. Just run it.
 
 ## License
 
+The original version of this program can be found in the repository at https://github.com/arkane-systems/mousejiggler and is under a different license. However, my version has been written entirely from scratch (it is not a modification), so I have chosen to change the license to a more permissive one.
+
 This project is released under the [Unlicense](LICENSE) license.
+
+## Visual Identity
+
+Furthermore, the visual identity, specifically the logo design for this product, has been meticulously developed and is presented below. This logo, like the product itself, is provided under the terms of The Unlicense, ensuring unrestricted use, modification, and distribution in accordance with the license's provisions.
+
+![mouse-jiggler-console.png](gfx/mouse-jiggler-console.png)
