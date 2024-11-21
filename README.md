@@ -8,15 +8,13 @@
 
 # Mouse Jiggler Console
 
-Mouse Jiggler for Windows Terminal, rewritten in F#. "Mouse Jiggler" is a utility that simulates mouse movement to prevent a computer from going idle or activating the screensaver.
+Mouse Jiggler for Windows Terminal, written in F#. "Mouse Jiggler" is a utility that simulates mouse movement to prevent a computer from going idle or activating the screensaver.
 
 ## Getting started
 
 No configuration. Just run it.
 
 ## License
-
-The original version of this program can be found in the repository at https://github.com/arkane-systems/mousejiggler and is under a different license. However, my version has been written entirely from scratch (it is not a modification), so I have chosen to change the license to a more permissive one.
 
 This project is released under the [Unlicense](LICENSE) license.
 
