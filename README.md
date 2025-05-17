@@ -19,7 +19,7 @@ No configuration. Just run it.
 
 ## How to download
 
-Simply open the [Releases](https://github.com/MaxGripe/mouse-jiggler-console/releases) section on the right side and download the file **mouse-jiggler-console.exe**.
+Simply open the [Releases](https://github.com/mg0x7BE/mouse-jiggler-console/releases) section on the right side and download the file **mouse-jiggler-console.exe**.
 
 ## Detectability
 
