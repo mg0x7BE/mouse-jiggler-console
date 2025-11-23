@@ -9,9 +9,9 @@
 
 # Mouse Jiggler Console
 
-![mouse-jiggler-console.png](gfx/mouse-jiggler-console.png)
-
 Simulates mouse movement to prevent screen lock.
+
+![mouse-jiggler-console.png](gfx/mouse-jiggler-console.png)
 
 ## Usage
 
