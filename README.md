@@ -9,22 +9,20 @@
 
 # Mouse Jiggler Console
 
-Mouse Jiggler for Windows Terminal, written in F#. "Mouse Jiggler" is a utility that simulates mouse movement to prevent a computer from going idle or activating the screensaver.
-
 ![mouse-jiggler-console.png](gfx/mouse-jiggler-console.png)
 
-## Getting started
+Simulates mouse movement to prevent screen lock.
 
-No configuration. Just run it.
+## Usage
 
-## How to download
+Run executable. No configuration needed.
 
-Simply open the [Releases](https://github.com/mg0x7BE/mouse-jiggler-console/releases) section on the right side and download the file **mouse-jiggler-console.exe**.
+Download: [Releases](https://github.com/mg0x7BE/mouse-jiggler-console/releases)
 
-## Detectability
+## Note
 
-It's important to keep in mind that this type of software is detectable. I recommend checking whether its use complies with your company's internal regulations and understanding the potential consequences if this software is detected. In my previous companies, we had screen lock policies, but I personally never hid the fact that I used this type of tool. I simply hate it when screen locking is forced, often after a very short period of time.
+This is detectable by monitoring software. Check company policy before use.
 
 ## License
 
-This project is released under the [Unlicense](LICENSE) license.
+[Unlicense](LICENSE)
