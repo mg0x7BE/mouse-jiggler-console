@@ -5,7 +5,7 @@
 ![GitHub Created At](https://img.shields.io/github/created-at/mg0x7BE/mouse-jiggler-console)
 ![GitHub forks](https://img.shields.io/github/forks/mg0x7BE/mouse-jiggler-console)
 ![GitHub Repo stars](https://img.shields.io/github/stars/mg0x7BE/mouse-jiggler-console)
-![OS](https://img.shields.io/badge/os-Windows-blue)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 
 # Mouse Jiggler Console
 
